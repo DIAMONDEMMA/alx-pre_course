@@ -1,2 +1,2 @@
-my second commit
-# update README file This is a project on how to setup your git and github account
+my second commit # Update README file This is a project on how to setup your git and github account
+
